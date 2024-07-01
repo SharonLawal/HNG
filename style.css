@@ -13,7 +13,7 @@ body {
     background: #fff;
     padding: 30px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    width: 90%;
+    width: 80%;
     max-width: 800px;
     border-radius: 10px;
     text-align: center;
@@ -83,7 +83,7 @@ ol li {
 @media (max-width: 768px) {
     .container {
         padding: 20px;
-        margin: 20px;
+        margin: 30px;
     }
 
     h1 {
