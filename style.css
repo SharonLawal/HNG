@@ -101,4 +101,8 @@ ol li {
     ol {
         padding-left: 15px;
     }
+
+    img {
+        max-width: 100%;
+    }
 }
